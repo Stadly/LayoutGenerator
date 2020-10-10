@@ -17,7 +17,7 @@ Use the following commands to set up `LayoutGenerator`.
 Download `LayoutGenerator`:
 
 ``` bash
-git clone --depth 1 https://github.com/Stadly/LayoutGenerator.git
+git clone -b v1.0.0 --depth 1 https://github.com/Stadly/LayoutGenerator.git
 ```
 
 Install dependencies:

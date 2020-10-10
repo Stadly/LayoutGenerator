@@ -7,7 +7,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ## Unreleased
 
 ### Added
-- Nothing
+- Possibility to generate layout templates.
 
 ### Changed
 - Nothing
